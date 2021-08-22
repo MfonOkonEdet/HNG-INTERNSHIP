@@ -1,0 +1,2 @@
+myNAME = "MFON OKON EDET"
+print(myNAME)
